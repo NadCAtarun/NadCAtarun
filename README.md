@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @NadCAtarun
 - 👀 I’m interested in web technologies, software architecture, and deep learning
-- 🌱 I’m currently learning Flutter development
-- 💞️ I’m looking to collaborate on Flutter apps
-- 📫 How to reach me: @atarun on Twitter, Atarun on Discord
+- 💻 I'm looking for remote work or a position in Finland
+- 📫 Get in touch: https://atarun.dev/contact
